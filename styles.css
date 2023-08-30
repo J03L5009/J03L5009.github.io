@@ -12,7 +12,7 @@ body{
     max-width: 1200px;
     font-family: 'Lato';
     color: #333;
-    background: url('img/fondo.jpg') no-repeat;
+    background: url('fondo.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
